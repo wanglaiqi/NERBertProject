@@ -1,0 +1,3 @@
+data_path: "resources/dataset/"
+model_path: "resources/model/ner_model_v1/"
+init_model_path: "resources/initModel/chinese_wwm_ext_L-12_H-768_A-12/"
